@@ -17,3 +17,8 @@ body {
 .about-me {
   background-color: white;
 }
+
+.profile-img {
+  width: auto;
+  height: 200px;
+}
